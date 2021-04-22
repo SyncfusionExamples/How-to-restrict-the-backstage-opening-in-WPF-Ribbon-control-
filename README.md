@@ -29,4 +29,4 @@ void ribbon_BackStageOpening(object sender, System.ComponentModel.CancelEventArg
 ```
 Output:
 The following screenshot displays how to restrict the BackStage Opening.
-![WPF_Ribbon_BackStageOpening](Output_Edit_Display_FormattedHtml.png)
+![WPF_Ribbon_BackStageOpening](Ribbon_BackStageOpening.png)
